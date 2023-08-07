@@ -1,0 +1,11 @@
+body{
+  background-color: purple;
+}
+td{
+  color:green;
+}
+img{
+  border-radius: 80px;
+  height: 200px;
+  width: 200px;
+}
